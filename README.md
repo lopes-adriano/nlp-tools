@@ -1,8 +1,8 @@
 # NLP Tools
 
-![Screenshot da aplicação](screenshot.png){:width="600px"}
+![Screenshot da aplicação](screenshot.png)
 
-O NLP Tools é um projeto que recebe textos como entrada e pode executar as seguintes tarefas:
+O NLP Tools é um projeto em VueJS/Nuxt e Python que recebe textos como entrada e pode executar as seguintes tarefas:
 
 - **Resumir**: Faz um resumo do texto extraindo as frases mais importantes. (Resumo extrativo)
 - **Tokenização**: Separação de um texto em unidades menores (tokens)
