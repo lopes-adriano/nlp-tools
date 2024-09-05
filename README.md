@@ -13,14 +13,17 @@ O NLP Tools é um projeto em VueJS/Nuxt e Python que recebe textos como entrada 
 ## Executando o projeto sem o Docker
 
 ### Backend
+Acesse o diretório nlp-tools-backend e em seguida execute os seguintes passos:
 
 1. Instale as dependências listadas em `requirements.txt` com o comando `pip install -r requirements.txt`
 2. Execute o arquivo `app.py` com o comando `python app.py`
 
 ### Frontend
+Acesse o diretório nlp-tools-frontend e em seguida execute os seguintes passos:
 
 1. Instale as dependências do Nuxt com o comando `npm install`
 2. Execute o Nuxt com o comando `npm run dev`
+3. Acesse o frontend em `http://localhost:3000`
 
 ## Executando o projeto com o Docker
 
