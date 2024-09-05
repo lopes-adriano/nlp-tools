@@ -1,5 +1,7 @@
 # NLP Tools
 
+![Screenshot da aplicação](screenshot.png){:width="600px"}
+
 O NLP Tools é um projeto que recebe textos como entrada e pode executar as seguintes tarefas:
 
 - **Resumir**: Faz um resumo do texto extraindo as frases mais importantes. (Resumo extrativo)
